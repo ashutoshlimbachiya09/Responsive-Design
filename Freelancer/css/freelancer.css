@@ -1,0 +1,155 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    background-color: #2c3e50;
+}
+
+.nav_top {
+    padding: 35px 100px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+a:hover {
+    color: #18bc9c;
+}
+
+ul {
+    float: right;
+}
+
+ul li {
+    color: white;
+    list-style: none;
+    float: left;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding: 10px 10px;
+    float: right;
+}
+
+.slider {
+    background-color: #18bc9c;
+}
+
+.container {
+    background-color: #18bc9c;
+    width: 80%;
+    margin: auto;
+}
+
+.box {
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.box img {
+    padding: 50px;
+}
+
+.box h1 {
+    color: white;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 80px;
+    margin-bottom: 30px;
+}
+
+.light-line {
+    border-top: solid 5px white;
+    max-width: 250px;
+    margin: auto;
+}
+
+.box h2 {
+    color: white;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    margin: 43px;
+    font-weight: 300;
+}
+
+.box-p h4 {
+    color: #2c3e50;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    margin: 30px;
+}
+.portfolio{
+    background-color: white;
+}
+.container-p {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 30px;
+}
+.box-p {
+    text-align: center;
+    padding: 10px 0px;
+}
+.light-line-p {
+    border-top: solid 5px #2c3e50;
+    max-width: 250px;
+    margin: auto;
+}
+.pimg{
+    padding: 40px 0px;
+    width: 100%;    
+}
+.pimg img{
+    padding: 10px 10px;
+    width: 31%;
+}
+
+
+
+
+.about{
+    background-color: #18bc9c;
+}
+
+.container-a {
+    background-color: #18bc9c;
+    width: 80%;
+    margin: auto;
+}
+
+.box-a {
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.box-a h4 {
+    color: white;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    margin: 30px;
+}
+
+.light-line {
+    border-top: solid 5px white;
+    max-width: 250px;
+    margin: auto;
+}
+
+.box-a h2 {
+    color: white;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    margin: 43px;
+    font-weight: 300;
+}
